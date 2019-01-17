@@ -57,7 +57,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 3.
+# DONE: 3.
 #   Add another   print   statement below this comment.
 #   It should print any string that you want (but keep it polite and G-rated!)
 #
@@ -68,7 +68,7 @@ print('Hello, World')
 #   Look at the  Run  window to be sure that your string printed as expected.
 #
 ###############################################################################
-
+print('My name is GG')
 ###############################################################################
 #
 # TODO: 4.
