@@ -56,5 +56,4 @@ A.go_to(rg.Point(100,-40))
 A.pen_down()
 A.pen = rg.Pen('green',10)
 A.backward(150)
-
 window.close_on_mouse_click()
